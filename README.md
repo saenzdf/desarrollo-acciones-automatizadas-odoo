@@ -16,11 +16,9 @@ Skill de agente (Cursor / [Agent Skills](https://agentskills.io)) para diseñar 
 ### Cursor / Agent Skills (personal)
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USER/desarrollo-acciones-automatizadas-odoo.git \
+git clone https://github.com/saenzdf/desarrollo-acciones-automatizadas-odoo.git \
   ~/.agents/skills/odoo-studio-automations
 ```
-
-> Sustituye `YOUR_GITHUB_USER` por tu usuario de GitHub tras publicar el repo (ver abajo).
 
 ### Proyecto (copia local)
 
