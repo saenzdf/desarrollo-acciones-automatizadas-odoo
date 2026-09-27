@@ -141,4 +141,4 @@ Preferir **Studio UI** para visibilidad del equipo.
 
 ## Caso de referencia (Life Deportes)
 
-Ejemplo real: borrar `.cdr` al entrar a etapa «Cobro y entrega» en `project.task`, trigger `on_stage_set`, dominio `stage_id in (38, 39)`. Ver documentación en el repo del cliente.
+Ejemplo real: borrar `.cdr` al entrar a etapa «Empacado» (ids 38/39, ex Cobro y entrega) en `project.task`, trigger `on_stage_set`, dominio `stage_id in (38, 39)`. Ver documentación en el repo del cliente.

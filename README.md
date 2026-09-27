@@ -52,4 +52,4 @@ El agente debe preguntar **modelo**, **trigger** e **instancia** antes de escrib
 
 ## Origen
 
-Extraído del flujo real Life Deportes (Odoo Online 19): automatización «Eliminar .cdr en Cobro y entrega» con `on_stage_set` y Execute Code.
+Extraído del flujo real Life Deportes (Odoo Online 19): automatización «Eliminar .cdr en Empacado» (ex Cobro y entrega) con `on_stage_set` y Execute Code.
